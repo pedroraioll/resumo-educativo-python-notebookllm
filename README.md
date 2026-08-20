@@ -18,4 +18,16 @@ Com este material, os principais objetivos são:
 - Compreender como criar e utilizar funções em Python;
 - Praticar os conceitos por meio de exemplos e exercícios;
 - Utilizar o NotebookLM como ferramenta de apoio para organizar e revisar o conteúdo estudado;
-Desenvolver uma base sólida nesses conceitos para aplicá-los em problemas de programação mais complexos.
+- Desenvolver uma base sólida nesses conceitos para aplicá-los em problemas de programação mais complexos.
+
+## Fontes utilizadas
+
+Os cinco PDFs utilizados como fontes no NotebookLM foram:
+
+- Listas — DIO
+- Tuplas — DIO
+- Conjuntos — DIO
+- Dicionários — DIO
+- Funções — DIO
+
+Esses materiais apresentam conceitos, exemplos de código e operações relacionadas a cada um dos temas estudados, servindo como base para as consultas e atividades realizadas no NotebookLM.
